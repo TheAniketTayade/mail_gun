@@ -1,0 +1,10 @@
+{
+    "EXCEL_FILE": "test_email_sheet.xlsx",
+    "EMAIL_SUBJECT": "Hi {{NAME}} This is the test email, please find the attachment and revert with confirmation when you receive",
+    "TEMPLATE_FILE": "email_template.html",
+    "ATTACHMENTS_FOLDER": "attachments",
+    "DELAY_BETWEEN_EMAILS": 2,
+    "MAX_EMAILS_PER_RUN": 100,
+    "TEST_MODE": false,
+    "_comment": "Set TEST_MODE to false when ready to send real emails"
+}
